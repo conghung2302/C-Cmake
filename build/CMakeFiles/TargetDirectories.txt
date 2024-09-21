@@ -1,0 +1,3 @@
+/home/hung/Documents/CmakeFile/build/CMakeFiles/App.dir
+/home/hung/Documents/CmakeFile/build/CMakeFiles/edit_cache.dir
+/home/hung/Documents/CmakeFile/build/CMakeFiles/rebuild_cache.dir

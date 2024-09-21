@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/App.dir/src/bar.c.o CMakeFiles/App.dir/src/calculator.c.o CMakeFiles/App.dir/src/foo.c.o CMakeFiles/App.dir/src/main.c.o -o App 

@@ -1,1 +1,4 @@
-# Cmake and C
+mkdir build
+cd build
+cmake ..
+make

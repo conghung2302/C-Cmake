@@ -1,0 +1,3 @@
+/home/lowlevelguy/coding/C-Cmake/build/CMakeFiles/App.dir
+/home/lowlevelguy/coding/C-Cmake/build/CMakeFiles/edit_cache.dir
+/home/lowlevelguy/coding/C-Cmake/build/CMakeFiles/rebuild_cache.dir
